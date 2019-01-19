@@ -14,13 +14,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-apester-media"></a>amp-apester-media
+# amp-apester-media
+
+Displays a <a href="https://apester.com/">Apester</a> smart unit.
 
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td> Displays a <a href="https://apester.com/">Apester</a> smart unit.</td>
-  </tr>
   <tr>
     <td width="40%"><strong>Required Script</strong></td>
     <td> <code>&lt;script async custom-element="amp-apester-media" src="https://cdn.ampproject.org/v0/amp-apester-media-0.1.js">&lt;/script></code></td>
@@ -35,7 +33,7 @@ limitations under the License.
 
 [TOC]
 
-## Examples 
+## Examples
 
 Single Mode:
 ```html
@@ -54,14 +52,17 @@ Playlist Mode:
 ```
 
 ## Attributes
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>data-apester-media-id</strong></td>
+    <td>This attribute is required for single mode, and it represents the ID of the media (string value).</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>data-apester-channel-token</strong></td>
+    <td>This attribute is required for playlist mode, and it represents the token of the channel (string value).</td>
+  </tr>
+</table>
 
-##### data-apester-media-id
-
-This attribute is required for single mode, and it represents the ID of the media (string value).
-
-##### data-apester-channel-token
-
-This attribute is required for playlist mode, and it represents the token of the channel (string value).
 
 ## Validation
 

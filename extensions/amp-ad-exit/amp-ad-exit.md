@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-ad-exit"></a> `amp-ad-exit`
+# amp-ad-exit
 
 [TOC]
 
@@ -381,10 +381,12 @@ The `amp-ad-exit` element exposes an `exit` action that other elements reference
 See the `AmpAdExitConfig` typedef in [config.js](https://github.com/ampproject/amphtml/blob/master/extensions/amp-ad-exit/0.1/config.js).
 
 ## Attributes
-
-##### id
-
-An `id` is required so that `amp-exit` can be referenced by tappable elements.
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>id</strong></td>
+    <td>An `id` is required so that `amp-exit` can be referenced by tappable elements.</td>
+  </tr>
+</table>
 
 ## Validation
 The `amp-ad-exit` element is only available for [AMPHTML ads)](https://www.ampproject.org/docs/ads/amphtml_ads).

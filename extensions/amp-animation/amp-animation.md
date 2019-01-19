@@ -14,13 +14,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-animation"></a> `amp-animation`
+# amp-animation
+
+Defines and runs animations.
 
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>Defines and runs animations.</td>
-  </tr>
   <tr>
     <td width="40%"><strong>Required Script</strong></td>
     <td><code>&lt;script async custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js">&lt;/script></code></td>

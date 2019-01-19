@@ -14,4 +14,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="`amp-date-display`"></a> `amp-date-display`
+# amp-date-display

@@ -1,4 +1,5 @@
-# <a name="amp-access-"></a> amp-access
+# amp-access
+AMP Access or “AMP paywall and subscription support” gives Publishers control over which content can be accessed by a Reader and with what restrictions, based on the Reader’s subscription status, number of views, and other factors.
 
 [TOC]
 
@@ -19,10 +20,6 @@ limitations under the License.
 -->
 
 <table>
-  <tr>
-    <td class="col-fourty"><strong>Description</strong></td>
-    <td>AMP Access or “AMP paywall and subscription support” gives Publishers control over which content can be accessed by a Reader and with what restrictions, based on the Reader’s subscription status, number of views, and other factors.</td>
-  </tr>
   <tr>
     <td><strong>Availability</strong></td>
     <td>Stable</td>

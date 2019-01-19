@@ -14,13 +14,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-audio"></a> `amp-audio`
+# amp-audio
+
+A replacement for the HTML5 <code>audio</code> tag. The <code>amp-audio</code> component is only to be used for direct HTML5 audio file embeds.
 
 <table>
-  <tr>
-    <td class="col-fourty"><strong>Description</strong></td>
-    <td>A replacement for the HTML5 <code>audio</code> tag. The <code>amp-audio</code> component is only to be used for direct HTML5 audio file embeds.</td>
-  </tr>
   <tr>
     <td class="col-fourty"><strong>Required Script</strong></td>
     <td><code>&lt;script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js">&lt;/script></code></td>
@@ -60,35 +58,34 @@ For example:
 ```
 
 ## Attributes
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>src</strong></td>
+    <td>Required if no `<source>` children are present. Must be HTTPS.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>preload</strong></td>
+    <td>If present, sets the preload attribute in the html `<audio>` tag which specifies if the author thinks that the audio file should be loaded when the page loads.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>autoplay</strong></td>
+    <td>If present, the attribute implies that the audio will start playing as soon as
+    it is ready.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>loop</strong></td>
+    <td>If present, the audio will automatically loop back to the start upon reaching the end.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>muted</strong></td>
+    <td>If present, will mute the audio by default.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>controlsList</strong></td>
+    <td>Same as [controlsList](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/controlsList) attribute of HTML5 audio element. Only supported by certain browsers. Please see [https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/controlsList](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/controlsList) for details.</td>
+  </tr>
+</table>
 
-##### src
-
-Required if no `<source>` children are present. Must be HTTPS.
-
-##### preload
-
-If present, sets the preload attribute in the html `<audio>` tag which specifies if the author thinks that the audio file should be loaded when the page loads.
-
-##### autoplay
-
-If present, the attribute implies that the audio will start playing as soon as
-it is ready.
-
-##### loop
-
-If present, the audio will automatically loop back to the start upon reaching the end.
-
-##### muted
-
-If present, will mute the audio by default.
-
-##### controlsList
-
-Same as [controlsList](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/controlsList) attribute of HTML5 audio element. Only supported by certain browsers. Please see [https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/controlsList](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/controlsList) for details.
-
-##### common attributes
-
-This element includes [common attributes](https://www.ampproject.org/docs/reference/common_attributes) extended to AMP components.
 
 ## Media Session Attributes
 

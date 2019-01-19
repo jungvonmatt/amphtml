@@ -14,13 +14,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# `amp-access-laterpay`
+# amp-access-laterpay
+Allows publishers to easily integrate with the <a href="https://www.laterpay.net">LaterPay</a> micropayments platform. <code>amp-access-laterpay</code> is based on, and requires <a href="https://www.ampproject.org/docs/reference/components/amp-access">AMP Access</a>.
 
 <table>
-  <tr>
-    <td class="col-fourty"><strong>Description</strong></td>
-    <td>Allows publishers to easily integrate with the <a href="https://www.laterpay.net">LaterPay</a> micropayments platform. <code>amp-access-laterpay</code> is based on, and requires <a href="https://www.ampproject.org/docs/reference/components/amp-access">AMP Access</a>.</td>
-  </tr>
   <tr>
     <td class="col-fourty"><strong>Required Scripts</strong></td>
     <td>

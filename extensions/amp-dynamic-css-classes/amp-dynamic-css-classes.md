@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-dynamic-css-classes"></a> AMP Dynamic CSS Classes
+# AMP Dynamic CSS Classes
 
 <table>
   <tr>
