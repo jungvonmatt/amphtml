@@ -14,13 +14,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="`amp-story-auto-ads`"></a> `amp-story-auto-ads`
+# amp-story-auto-ads
+
+Dynamically inserts ads into a Story.
 
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>Dynamically inserts ads into a Story.</td>
-  </tr>
   <tr>
     <td width="40%"><strong>Availability</strong></td>
     <td>Experimental</td>

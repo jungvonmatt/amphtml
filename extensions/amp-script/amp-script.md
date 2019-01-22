@@ -1,4 +1,4 @@
-# <a name="amp-script"></a> `amp-script`
+# amp-script
 
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
@@ -18,11 +18,9 @@ limitations under the License.
 
 [TOC]
 
+Allows rendering of custom UI components running on third-party JavaScript.
+
 <table>
-  <tr>
-    <td class="col-fourty"><strong>Description</strong></td>
-    <td>Allows rendering of custom UI components running on third-party JavaScript.</td>
-  </tr>
   <tr>
     <td><strong>Availability</strong></td>
     <td><a href="https://www.ampproject.org/docs/reference/experimental.html">Experimental</a></td>

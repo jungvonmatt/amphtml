@@ -14,17 +14,13 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-sidebar"></a> `amp-sidebar`
+# amp-sidebar
 
 [TOC]
 
+A sidebar provides a way to display meta content intended for temporary access (navigation links, buttons, menus, etc.). The sidebar can be revealed by a button tap while the main content remains visually underneath.
+
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>
-    A sidebar provides a way to display meta content intended for temporary access (navigation links, buttons, menus, etc.). The sidebar can be revealed by a button tap while the main content remains visually underneath.
-    </td>
-  </tr>
   <tr>
     <td width="40%"><strong>Required Script</strong></td>
     <td><code>&lt;script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js">&lt;/script></code></td>
@@ -203,35 +199,36 @@ See live demos at [AMP By Example](https://ampbyexample.com/components/amp-sideb
 
 ## Attributes
 
-##### side
-
-Indicates what side of the page the sidebar should open from, either `left` or `right`.  If a `side` is not specified, the `side` value will be inherited from the `body` tag's `dir` attribute (`ltr` => `left` , `rtl` => `right`); if no `dir` exists, the `side` defaults to `left`.
-
-##### layout
-
-Specifies the display layout of the sidebar, which must be `nodisplay`.
-
-##### open
-
-This attribute is present when the sidebar is open.
-
-
-##### data-close-button-aria-label
-
-Optional attribute used to set ARIA label for the close button added for accessibility.
-
-
-##### toolbar
-
-This attribute is present on child `<nav toolbar="(media-query)" toolbar-target="elementID">` elements, and accepts a media query of when to show a toolbar. See the [Toolbar](#toolbar) section for more information on using toolbars.
-
-##### toolbar-target
-
-This attribute is present on child `<nav toolbar="(media-query)" toolbar-target="elementID">`, and accepts an id of an element on the page.  The `toolbar-target` attribute will place the toolbar into the specified id of the element on the page, without the default toolbar styling. See the [Toolbar](#toolbar) section for more information on using toolbars.
-
-##### common attributes
-
-This element includes [common attributes](https://www.ampproject.org/docs/reference/common_attributes) extended to AMP components.
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>side</strong></td>
+    <td>Indicates what side of the page the sidebar should open from, either `left` or `right`.  If a `side` is not specified, the `side` value will be inherited from the `body` tag's `dir` attribute (`ltr` => `left` , `rtl` => `right`); if no `dir` exists, the `side` defaults to `left`.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>layout</strong></td>
+    <td>Specifies the display layout of the sidebar, which must be `nodisplay`.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>open</strong></td>
+    <td>This attribute is present when the sidebar is open.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>data-close-button-aria-label</strong></td>
+    <td>Optional attribute used to set ARIA label for the close button added for accessibility.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>toolbar</strong></td>
+    <td>This attribute is present on child `<nav toolbar="(media-query)" toolbar-target="elementID">` elements, and accepts a media query of when to show a toolbar. See the [Toolbar](#toolbar) section for more information on using toolbars.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>toolbar-target</strong></td>
+    <td>This attribute is present on child `<nav toolbar="(media-query)" toolbar-target="elementID">`, and accepts an id of an element on the page.  The `toolbar-target` attribute will place the toolbar into the specified id of the element on the page, without the default toolbar styling. See the [Toolbar](#toolbar) section for more information on using toolbars.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>common attributes</strong></td>
+    <td>This element includes [common attributes](https://www.ampproject.org/docs/reference/common_attributes) extended to AMP components.</td>
+  </tr>
+</table>
 
 ## Styling
 

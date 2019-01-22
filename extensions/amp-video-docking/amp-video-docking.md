@@ -14,15 +14,13 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-video-docking"></a> `amp-video-docking`
+# amp-video-docking
 
 [TOC]
 
+Functionality for videos that dock to a corner.
+
 <table>
-   <tr>
-    <td class="col-fourty"><strong>Description</strong></td>
-    <td>Functionality for videos that dock to a corner.</td>
-  </tr>
   <tr>
     <td width="40%"><strong>Required Script</strong></td>
     <td><code>&lt;script async custom-element="amp-video-docking" src="https://cdn.ampproject.org/v0/amp-video-docking-0.1.js">&lt;/script></code></td>

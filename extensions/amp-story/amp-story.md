@@ -14,13 +14,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="`amp-story`"></a> `amp-story`
+# amp-story
+
+A rich, visual storytelling format.
 
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>A rich, visual storytelling format.</td>
-  </tr>
   <tr>
     <td width="40%"><strong>Availability</strong></td>
     <td><div><a href="https://www.ampproject.org/docs/reference/experimental.html">Experimental</a></td>
@@ -123,7 +121,7 @@ The following guidelines apply to the image for the publisher logo:
     <td>
       <amp-img alt="Logo with blue text on white background"
           layout="fixed"
-          width="107" height="112" 
+          width="107" height="112"
           src="https://github.com/ampproject/amphtml/raw/master/extensions/amp-story/img/publisher-logo-1.png" >
         <noscript>
           <img alt="Logo with blue text on white background" src="img/publisher-logo-1.png" />
@@ -134,7 +132,7 @@ The following guidelines apply to the image for the publisher logo:
     <td>
       <amp-img alt="Logo with white text on blue background"
           layout="fixed"
-          width="107" height="101" 
+          width="107" height="101"
           src="https://github.com/ampproject/amphtml/raw/master/extensions/amp-story/img/publisher-logo-2.png" >
         <noscript>
           <img alt="Logo with white text on blue background" src="img/publisher-logo-2.png" />
@@ -145,7 +143,7 @@ The following guidelines apply to the image for the publisher logo:
     <td>
       <amp-img alt="Logo with blue text on blue background"
           layout="fixed"
-          width="103" height="102" 
+          width="103" height="102"
           src="https://github.com/ampproject/amphtml/raw/master/extensions/amp-story/img/publisher-logo-3.png" >
         <noscript>
           <img alt="Logo with blue text on blue background" src="img/publisher-logo-3.png" />
@@ -291,37 +289,40 @@ The `amp-story` component represents an entire story.  The component itself  imp
 
 ### Attributes
 
-##### standalone [required]
-
-Identifies that the AMP document is a story.
-
-##### title [required]
-
-The title of the story.
-
-##### publisher [required]
-
-The name of the story's publisher.
-
-##### publisher-logo-src [required]
-
-A URL to the story publisher's logo in square format (1x1 aspect ratio). For example `publisher-logo-src="https://example.com/logo/1x1.png"`, where 1x1.png is a 36x36 px logo.
-
-##### poster-portrait-src [required]
-
-A URL to the [story poster](#posters) in portrait format (3x4 aspect ratio).
-
-##### background-audio [optional]
-
-A URL to an audio file that plays throughout the story.
-
-##### poster-square-src [optional]
-
-A URL to the [story poster](#posters) in square format (1x1 aspect ratio).
-
-##### poster-landscape-src [optional]
-
-A URL to the [story poster](#posters) in landscape format (4x3 aspect ratio).
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>standalone [required]</strong></td>
+    <td>Identifies that the AMP document is a story.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>title [required]</strong></td>
+    <td>The title of the story.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>publisher [required]</strong></td>
+    <td>The name of the story's publisher.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>publisher-logo-src [required]</strong></td>
+    <td>A URL to the story publisher's logo in square format (1x1 aspect ratio). For example `publisher-logo-src="https://example.com/logo/1x1.png"`, where 1x1.png is a 36x36 px logo.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>poster-portrait-src [required]</strong></td>
+    <td>A URL to the [story poster](#posters) in portrait format (3x4 aspect ratio).</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>background-audio [optional]</strong></td>
+    <td>A URL to an audio file that plays throughout the story.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>poster-square-src [optional]</strong></td>
+    <td>A URL to the [story poster](#posters) in square format (1x1 aspect ratio).</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>poster-landscape-src [optional]</strong></td>
+    <td>A URL to the [story poster](#posters) in landscape format (4x3 aspect ratio).</td>
+  </tr>
+</table>
 
 ### Posters
 
@@ -370,32 +371,37 @@ The `<amp-story-page>` component represents the content to display on a single p
 
 ### Attributes
 
-##### id [required]
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>id [required]</strong></td>
+    <td>A unique identifier for the page. Can be used for styling the page and its descendants in CSS, and is also used to uniquely identify the page in the URL fragment.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>auto-advance-after [optional]</strong></td>
+    <td>Specifies when to auto-advance to the next page.  If omitted, the page will not automatically advance. The value for `auto-advance-after` must be either:<br>
+<ul><li>
+      A positive amount of [time](https://developer.mozilla.org/en-US/docs/Web/CSS/time) to wait before automatically advancing to the next page</li><li>
+      An ID of an [HTMLMediaElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement) or video-interface video whose completion will trigger the auto-advance
+</li></ul>
+    For example:
 
-A unique identifier for the page. Can be used for styling the page and its descendants in CSS, and is also used to uniquely identify the page in the URL fragment.
+    ```html
+    <amp-story-page id="tokyo" auto-advance-after="1s">
+    ```
+</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>background-audio [optional]</strong></td>
+    <td>A URI to an audio file that plays while this page is in view.
 
-##### auto-advance-after [optional]
+    For example:
 
-Specifies when to auto-advance to the next page.  If omitted, the page will not automatically advance. The value for `auto-advance-after` must be either:
-
-  * A positive amount of [time](https://developer.mozilla.org/en-US/docs/Web/CSS/time) to wait before automatically advancing to the next page
-  * An ID of an [HTMLMediaElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement) or video-interface video whose completion will trigger the auto-advance
-
-For example:
-
-```html
-<amp-story-page id="tokyo" auto-advance-after="1s">
-```
-
-##### background-audio [optional]
-
-A URI to an audio file that plays while this page is in view.
-
-For example:
-
-```html
-<amp-story-page id="zurich" background-audio="./media/switzerland.mp3">
-```
+    ```html
+    <amp-story-page id="zurich" background-audio="./media/switzerland.mp3">
+    ```
+</td>
+  </tr>
+</table>
 
 ### Children (of amp-story-page)
 
@@ -426,15 +432,20 @@ The `<amp-story-grid-layer>` component lays its children out into a grid.  Its i
 
 #### Attributes
 
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>template [required]</strong></td>
+    <td>The `template` attribute determines the layout of the grid layer. Available templates are described in the [Templates](#templates) section below.
+</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>grid-area [optional]</strong></td>
+    <td>This attribute is specified on children of `<amp-story-grid-layer>`.  `grid-area` specifies the named area (from using a `template` that defines them) in which the element containing this attribute should appear.
 
-##### template [required]
+</td>
+  </tr>
 
-The `template` attribute determines the layout of the grid layer. Available templates are described in the [Templates](#templates) section below.
-
-
-##### grid-area [optional]
-
-This attribute is specified on children of `<amp-story-grid-layer>`.  `grid-area` specifies the named area (from using a `template` that defines them) in which the element containing this attribute should appear.
+</table>
 
 Example:
 

@@ -14,13 +14,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-subscriptions-google"></a> `amp-subscriptions-google`
+# amp-subscriptions-google
+
+Implements subscription-style access protocol for Subscribe with Google.
 
 <table>
-  <tr>
-    <td class="col-fourty"><strong>Description</strong></td>
-    <td>Implements subscription-style access protocol for Subscribe with Google.</td>
-  </tr>
   <tr>
     <td class="col-fourty"><strong>Availability</strong></td>
     <td>Beta.</td>

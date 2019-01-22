@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-sticky-ad"></a> `amp-sticky-ad`
+# amp-sticky-ad
 
 <table>
   <tr>
@@ -65,9 +65,12 @@ Example:
 
 ## Attributes
 
-##### layout (required)
-
-Must be set to `nodisplay`.
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>layout (required)</strong></td>
+    <td>Must be set to `nodisplay`.</td>
+  </tr>
+</table>
 
 ## Styling
 
