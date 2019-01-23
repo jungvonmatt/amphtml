@@ -16,11 +16,9 @@ limitations under the License.
 
 # amp-delight-player
 
+The <code>amp-delight-player</code> element displays a cloud-hosted [Delight Player](https://delight-vr.com/).
+
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>The <code>amp-delight-player</code> element displays a cloud-hosted [Delight Player](https://delight-vr.com/).
-  </tr>
   <tr>
     <td width="40%"><strong>Required Script</strong></td>
     <td><code>&lt;script async custom-element="amp-delight-player" src="https://cdn.ampproject.org/v0/amp-delight-player-0.1.js">&lt;/script></code></td>

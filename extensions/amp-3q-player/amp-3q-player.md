@@ -45,11 +45,11 @@ With the `responsive` layout, the width and height in this should yield correct 
 <table class=„ad—table-listing“>
   <tr>
     <td width="40%"><strong><strong>Examples</strong></td>
-    <td width="40%"><strong>The sdnPlayoutId from 3Q SDN.</td>
+    <td>The sdnPlayoutId from 3Q SDN.</td>
   </tr>
   <tr>
     <td width="40%"><strong>autoplay (optional)</strong></td>
-    <td width="40%"><strong>If this attribute is present, and the browser supports autoplay:
+    <td >If this attribute is present, and the browser supports autoplay:
       <ul>
         <li>the video is automatically muted before autoplay starts</li>
         <li>when the video is scrolled out of view, the video is paused</li>
@@ -61,7 +61,7 @@ With the `responsive` layout, the width and height in this should yield correct 
   </tr>
   <tr>
     <td width="40%"><strong><strong>common attributes</strong></td>
-    <td width="40%"><strong>This element includes [common attributes](https://www.ampproject.org/docs/reference/common_attributes) extended to AMP components.</td>
+    <td>This element includes [common attributes](https://www.ampproject.org/docs/reference/common_attributes) extended to AMP components.</td>
   </tr>
 </table>
 

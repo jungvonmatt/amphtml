@@ -91,21 +91,24 @@ For example:
 
 `amp-audio` implements the [Media Session API](https://developers.google.com/web/updates/2017/02/media-session) enabling developers to specify more information about the audio file that is playing to be displayed in the notification center of user's devices (along with play/pause controls).
 
-##### artwork
-
-URL to a PNG/JPG/ICO image serving as the audio's artwork. If not present, the MediaSessionAPI Helper will use either the `image` field in the `schema.org` definition, the `og:image` or the website's `favicon`.
-
-##### artist
-
-(string) indicates the author of the audio
-
-##### album
-
-(string) indicates the album the audio was taken from
-
-##### title
-
-(string) part of the [common attributes](https://www.ampproject.org/docs/reference/common_attributes), doubles as the audio's name displayed in the MediaSession notification. If not provided, the MediaSessionAPI Helper will use either the `aria-label` attribute or fall back to the page's title.
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>artwork</strong></td>
+    <td>URL to a PNG/JPG/ICO image serving as the audio's artwork. If not present, the MediaSessionAPI Helper will use either the `image` field in the `schema.org` definition, the `og:image` or the website's `favicon`.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>artist</strong></td>
+    <td>(string) indicates the author of the audio</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>album</strong></td>
+    <td>(string) indicates the album the audio was taken from</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>title</strong></td>
+    <td>(string) part of the [common attributes](https://www.ampproject.org/docs/reference/common_attributes), doubles as the audio's name displayed in the MediaSession notification. If not provided, the MediaSessionAPI Helper will use either the `aria-label` attribute or fall back to the page's title.</td>
+  </tr>
+</table>
 
 Example:
 

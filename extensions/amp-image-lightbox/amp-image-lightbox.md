@@ -116,17 +116,21 @@ Optionally, you can display captions at the bottom of the viewport for the image
 
 ## Attributes
 
-##### layout (required)
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>layout (required)</strong></td>
+    <td>Must be set to `nodisplay`.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>id (required)</strong></td>
+    <td>The ID for the lightbox element that's used as a target for the image's `on` action.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>data-close-button-aria-label (optional)</strong></td>
+    <td>An ARIA label that you can use for a close button.</td>
+  </tr>
+</table>
 
-Must be set to `nodisplay`.
-
-##### id (required)
-
-The ID for the lightbox element that's used as a target for the image's `on` action.
-
-##### data-close-button-aria-label (optional)
-
-An ARIA label that you can use for a close button.
 
 ```html
 <amp-image-lightbox id="image-lightbox1" layout="nodisplay"

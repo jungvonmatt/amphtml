@@ -16,12 +16,10 @@ limitations under the License.
 
 # amp-list
 
+Fetches content dynamically from a CORS JSON endpoint and renders it
+using a supplied template.
+
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>Fetches content dynamically from a CORS JSON endpoint and renders it
-using a supplied template.</td>
-  </tr>
   <tr>
     <td width="40%"><strong>Required Script</strong></td>
     <td><code>&lt;script async custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js">&lt;/script></code></td>
