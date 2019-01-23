@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-google-document-embed"></a> `amp-google-document-embed`
+# amp-google-document-embed
 
 <table>
   <tr>

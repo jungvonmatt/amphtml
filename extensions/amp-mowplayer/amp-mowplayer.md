@@ -14,13 +14,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="`amp-mowplayer`"></a> `amp-mowplayer`
+# amp-mowplayer
+
+Displays a cloud-hosted <a href="https://mowplayer.com/">Mow Player</a>.
 
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>Displays a cloud-hosted <a href="https://mowplayer.com/">Mow Player</a>.</td>
-  </tr>
   <tr>
     <td width="40%"><strong>Availability</strong></td>
     <td>The player is available as free player.</td>

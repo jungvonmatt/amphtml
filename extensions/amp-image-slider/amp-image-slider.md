@@ -14,15 +14,13 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-image-slider"></a> `amp-image-slider`
+# amp-image-slider
+
+A slider to compare two images.
 
 [TOC]
 
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>A slider to compare two images.</td>
-  </tr>
   <tr>
     <td width="40%"><strong>Required Script</strong></td>
     <td><code>&lt;script async custom-element="amp-image-slider" src="https://cdn.ampproject.org/v0/amp-image-slider-0.1.js">&lt;/script></code></td>

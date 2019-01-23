@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-install-serviceworker"></a> `amp-install-serviceworker`
+# amp-install-serviceworker
 
 [TOC]
 
@@ -57,33 +57,41 @@ Example:
 
 ## Attributes
 
-##### src (required)
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>src (required)</strong></td>
+    <td>The URL of the ServiceWorker to register, which must use `https` protocol.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>data-iframe-src (optional)</strong></td>
+    <td>The URL of an HTML document that installs a ServiceWorker. The URL must use `https` protocol.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>data-scope (optional)</strong></td>
+    <td>The scope of the service worker to be installed.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>layout</strong></td>
+    <td>Must have the value `nodisplay`.</td>
+  </tr>
+  <tr>
+     <td width="40%"><strong>data-no-service-worker-fallback-url-match</strong></td>
+     <td>
+      The is a regular expression that matches URLs to be rewritten to navigate via shell for no-service-worker fallback. See [Shell URL rewrite](#shell-url-rewrite) section for more details. The value must be a valid JavaScript RegExp string. For example:
+       <ul>
+           <li>`amp.html`</li>
+           <li>`.*amp`</li>
+           <li>`.*\.amp\.html`</li>
+           <li>`.*\/amp$`</li>
+       </ul>
+     </td>
+   </tr>
+   <tr>
+     <td width="40%"><strong>data-no-service-worker-fallback-shell-url</strong></td>
+     <td>The URL to the shell to use to rewrite URL navigations for no-service-worker fallback. See [Shell URL rewrite](#shell-url-rewrite) section for more details. The value must be an URL on the same origin as the AMP document itself.</td>
+   </tr>
+</table>
 
-The URL of the ServiceWorker to register, which must use `https` protocol.
-
-##### data-iframe-src (optional)
-
-The URL of an HTML document that installs a ServiceWorker. The URL must use `https` protocol.
-
-##### data-scope (optional)
-
-The scope of the service worker to be installed.
-
-##### layout
-
-Must have the value `nodisplay`.
-
-##### data-no-service-worker-fallback-url-match
-
-The is a regular expression that matches URLs to be rewritten to navigate via shell for no-service-worker fallback. See [Shell URL rewrite](#shell-url-rewrite) section for more details. The value must be a valid JavaScript RegExp string. For example:
- - `amp.html`
- - `.*amp`
- - `.*\.amp\.html`
- - `.*\/amp$`
-
-##### data-no-service-worker-fallback-shell-url
-
-The URL to the shell to use to rewrite URL navigations for no-service-worker fallback. See [Shell URL rewrite](#shell-url-rewrite) section for more details. The value must be an URL on the same origin as the AMP document itself.
 
 ## Shell URL rewrite
 

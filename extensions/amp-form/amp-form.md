@@ -14,13 +14,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="`amp-form`"></a> `amp-form`
+# amp-form
+
+Allows you to create <code>form</code> and <code>input</code> tags.
 
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>Allows you to create <code>form</code> and <code>input</code> tags.</td>
-  </tr>
   <tr>
     <td><strong>Required Script</strong></td>
     <td><code>&lt;script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js">&lt;/script></code></td>
@@ -64,47 +62,51 @@ Here's an example of a basic form:
 
 ## Attributes
 
-##### target
+<table class=„ad—table-listing“>
+  <tr>
+    <td width="40%"><strong>target</strong></td>
+    <td>Indicates where to display the form response after submitting the form. The value must be `_blank` or `_top`.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong></strong></td>
+    <td>
+      Specifies a server endpoint to handle the form input. The value must be an `https` URL (absolute or relative) and must not be a link to a CDN.
+      <ul>
+          <li>For `method=GET`: use this attribute or [`action-xhr`](#action-xhr).</li>
+          <li>For `method=POST`: use the [`action-xhr`](#action-xhr) attribute.</li>
+      </ul>
+      {% call callout('Note', type='note') %}
+      The `target` and `action` attributes are only used for non-xhr GET requests. The AMP runtime will use `action-xhr` to make the request and will ignore `action` and `target`. When `action-xhr` is not provided, AMP makes a GET request to the `action` endpoint and uses `target` to open a new window (if `_blank`). The AMP runtime might also fallback to using `action` and `target` in cases where the `amp-form` extension fails to load.
+      {% endcall %}
+    </td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>action-xhr</strong></td>
+    <td>Specifies a server endpoint to handle the form input and submit the form via XMLHttpRequest (XHR). An XHR request (sometimes called an AJAX request) is where the browser would make the request without a full load of the page or opening a new page. Browsers will send the request in the background using the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) when available and fallback to [XMLHttpRequest API](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) for older browsers.
+    <br>
+    {% call callout('Important', type='caution') %}
+    Your XHR endpoint must implement the requirements for [CORS security](https://www.ampproject.org/docs/fundamentals/amp-cors-requests#cors-security-in-amp).
+    {% endcall %}
+    <br><br>
+    This attribute is required for `method=POST`, and is optional for `method=GET`.
+    <br><br>
+    The value for `action-xhr` can be the same or a different endpoint than `action` and has the same `action` requirements above.
+    <br><br>
+    To learn about redirecting the user after successfully submitting the form, see the [Redirecting after a submission](#redirecting-after-a-submission) section below.
+</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>other form attributes</strong></td>
+    <td>All other [form attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) are optional.</td>
+  </tr>
+  <tr>
+    <td width="40%"><strong>custom-validation-reporting</strong></td>
+    <td>This is an optional attribute that enables and selects a custom validation reporting strategy. Valid values are one of: `show-first-on-submit`, `show-all-on-submit` or `as-you-go`.
+    <br>
+    See the [Custom Validation](#custom-validations) section for more details.</td>
+  </tr>
+</table>
 
-Indicates where to display the form response after submitting the form. The value must be `_blank` or `_top`.
-
-##### action
-
-Specifies a server endpoint to handle the form input. The value must be an `https` URL (absolute or relative) and must not be a link to a CDN.
-
-* For `method=GET`: use this attribute or [`action-xhr`](#action-xhr).
-* For `method=POST`: use the [`action-xhr`](#action-xhr) attribute.
-
-
-{% call callout('Note', type='note') %}
-The `target` and `action` attributes are only used for non-xhr GET requests. The AMP runtime will use `action-xhr` to make the request and will ignore `action` and `target`. When `action-xhr` is not provided, AMP makes a GET request to the `action` endpoint and uses `target` to open a new window (if `_blank`). The AMP runtime might also fallback to using `action` and `target` in cases where the `amp-form` extension fails to load.
-{% endcall %}
-
-##### action-xhr
-
-Specifies a server endpoint to handle the form input and submit the form via XMLHttpRequest (XHR). An XHR request (sometimes called an AJAX request) is where the browser would make the request without a full load of the page or opening a new page. Browsers will send the request in the background using the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) when available and fallback to [XMLHttpRequest API](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) for older browsers.
-
-{% call callout('Important', type='caution') %}
-Your XHR endpoint must implement the requirements for [CORS security](https://www.ampproject.org/docs/fundamentals/amp-cors-requests#cors-security-in-amp).
-{% endcall %}
-
-
-This attribute is required for `method=POST`, and is optional for `method=GET`.
-
-The value for `action-xhr` can be the same or a different endpoint than `action` and has the same `action` requirements above.
-
-To learn about redirecting the user after successfully submitting the form, see the [Redirecting after a submission](#redirecting-after-a-submission) section below.
-
-
-##### other form attributes
-
-All other [form attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) are optional.
-
-##### custom-validation-reporting
-
-This is an optional attribute that enables and selects a custom validation reporting strategy. Valid values are one of: `show-first-on-submit`, `show-all-on-submit` or `as-you-go`.
-
-See the [Custom Validation](#custom-validations) section for more details.
 
 ## Inputs and fields
 

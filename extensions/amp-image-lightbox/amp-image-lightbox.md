@@ -14,13 +14,11 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# <a name="amp-image-lightbox"></a> `amp-image-lightbox`
+# amp-image-lightbox
+
+Provides a lightbox effect for a specified image.
 
 <table>
-  <tr>
-    <td width="40%"><strong>Description</strong></td>
-    <td>Provides a lightbox effect for a specified image.</td>
-  </tr>
   <tr>
     <td width="40%"><strong>Required Script</strong></td>
     <td><code>&lt;script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js">&lt;/script></code></td>
@@ -74,7 +72,7 @@ In this example, two images display: a cat and a frog.  When the user clicks eit
     src="/img/frog.jpg"
     layout="responsive"
     width="360" height="360"></amp-img>
-  
+
 <amp-img on="tap:lightbox1"
     role="button"
     tabindex="0"
@@ -131,7 +129,7 @@ The ID for the lightbox element that's used as a target for the image's `on` act
 An ARIA label that you can use for a close button.
 
 ```html
-<amp-image-lightbox id="image-lightbox1" layout="nodisplay" 
+<amp-image-lightbox id="image-lightbox1" layout="nodisplay"
     data-close-button-aria-label="Close"></amp-image-lightbox>
 ```
 
