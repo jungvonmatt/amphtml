@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: The amp-delight-player element displays a cloud-hosted Delight Player.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

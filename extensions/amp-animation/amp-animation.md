@@ -1,3 +1,10 @@
+$category: presentation
+formats:
+  - websites
+  - ads
+teaser:
+  text: Defines and displays an animation.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

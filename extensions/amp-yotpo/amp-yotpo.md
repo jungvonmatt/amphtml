@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Embeds a Yotpo on-site widget.
+---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

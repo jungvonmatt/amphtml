@@ -1,5 +1,13 @@
+$category: ads-analytics
+formats:
+  - websites
+teaser:
+  text: A container to display an ad.
+---
 # amp-ad / amp-embed
 A container to display an ad. The <code>amp-embed</code> is an alias to the <code>amp-ad</code> tag, deriving all of its functionality with a different tag name. Use <code>amp-embed</code> when semantically more accurate. AMP documents only support ads/embeds served via HTTPS.
+
+# <a name="amp-ad"></a> `amp-ad` / `amp-embed`
 
 [TOC]
 

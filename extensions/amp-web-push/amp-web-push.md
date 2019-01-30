@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Allows users to subscribe to web push notifications.
+---
 <!--
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

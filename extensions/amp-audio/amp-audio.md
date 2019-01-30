@@ -1,3 +1,11 @@
+$category: media
+formats:
+  - websites
+  - ads
+  - stories
+teaser:
+  text: Replaces the HTML5 audio tag.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

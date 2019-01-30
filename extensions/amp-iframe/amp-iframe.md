@@ -1,3 +1,9 @@
+$category: layout
+formats:
+  - websites
+teaser:
+  text: Displays an iframe.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

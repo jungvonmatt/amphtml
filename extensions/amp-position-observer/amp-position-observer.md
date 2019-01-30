@@ -1,3 +1,10 @@
+$category: layout
+formats:
+  - websites
+  - ads
+teaser:
+  text: Monitors the orientation of an element within the viewport as a user scrolls, and dispatches events that can be used with other AMP components.
+---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

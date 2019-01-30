@@ -1,3 +1,9 @@
+$category: social
+formats:
+  - websites
+teaser:
+  text: Embeds the Facebook like button plugin.
+---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

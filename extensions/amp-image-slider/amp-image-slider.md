@@ -1,3 +1,9 @@
+$category: layout
+formats:
+  - websites
+teaser:
+  text: A slider to compare two images.
+---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

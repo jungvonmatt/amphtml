@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Provides a calendar widget to select dates.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

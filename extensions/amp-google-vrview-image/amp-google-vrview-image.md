@@ -1,3 +1,10 @@
+$category: media
+formats:
+  - websites
+  - stories
+teaser:
+  text: Displays a VR image.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

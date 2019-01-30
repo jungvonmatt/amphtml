@@ -1,3 +1,11 @@
+$category: ads-analytics
+formats:
+  - websites
+  - email 
+  - ads
+teaser:
+  text: Captures analytics data from an AMP document.
+---
 <!---
 Copyright 2019 The AMP HTML Authors. All Rights Reserved.
 

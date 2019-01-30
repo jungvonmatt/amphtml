@@ -1,3 +1,10 @@
+$category: media
+formats:
+  - websites
+  - ads
+teaser:
+  text: Displays a YouTube video.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Displays a dismissable notification to the user.
+---
 <!--
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

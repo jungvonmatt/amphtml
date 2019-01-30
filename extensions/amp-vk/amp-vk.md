@@ -1,3 +1,9 @@
+$category: social
+formats:
+  - websites
+teaser:
+  text: Embeds a VK post or poll widget.
+---
 <!--
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

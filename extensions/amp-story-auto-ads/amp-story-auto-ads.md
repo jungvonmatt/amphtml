@@ -1,3 +1,9 @@
+$category: presentation
+formats:
+  - websites
+teaser:
+  text: Dynamically inserts ads into a Story.
+---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

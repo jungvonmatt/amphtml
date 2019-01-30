@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays any Playbuzz content (e.g., list, poll, etc.).
+---
 <!---
 Copyright 2017 The AMP HTML Authors.
 

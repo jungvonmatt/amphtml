@@ -1,3 +1,11 @@
+$category: presentation
+formats:
+  - websites
+  - ads
+  - stories
+teaser:
+  text: Triggers and monitors the loading of custom fonts.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

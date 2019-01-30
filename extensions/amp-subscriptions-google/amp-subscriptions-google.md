@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Implements subscription-style access protocol for Subscribe with Google.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

@@ -1,3 +1,10 @@
+$category: layout
+formats:
+  - websites
+  - email
+teaser:
+  text: Provides a lightbox effect for a specified image.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

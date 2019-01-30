@@ -1,3 +1,9 @@
+$category: social
+formats:
+  - websites
+teaser:
+  text: Displays a Vine simple embed.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

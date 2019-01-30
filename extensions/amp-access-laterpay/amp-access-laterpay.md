@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Allows publishers to easily integrate with the LaterPay micropayments platform.
+---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

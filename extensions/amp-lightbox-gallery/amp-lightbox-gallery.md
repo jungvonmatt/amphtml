@@ -1,3 +1,10 @@
+$category: layout
+formats:
+  - websites
+  - ads
+teaser:
+  text: Provides a "lightbox” experience. Upon user interaction, a UI component expands to fill the viewport until it is closed by the user.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

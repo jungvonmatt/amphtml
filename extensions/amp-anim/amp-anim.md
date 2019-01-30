@@ -1,3 +1,11 @@
+$category: media
+formats:
+  - websites
+  - email
+  - ads
+teaser:
+  text: Manages an animated image, typically a GIF.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

@@ -1,3 +1,9 @@
+$category: social
+formats:
+  - websites
+teaser:
+  text: Displays a Pinterest widget or Save button.
+---
 <!---
 Copyright 2015 The AMP HTML Authors.
 

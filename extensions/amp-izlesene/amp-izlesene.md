@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays an Izlesene video.
+---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

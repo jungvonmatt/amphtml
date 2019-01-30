@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays the Kaltura Player as used in Kaltura's Video Platform.
+---
 <!---
 Copyright 2016 Kaltura. All Rights Reserved.
 

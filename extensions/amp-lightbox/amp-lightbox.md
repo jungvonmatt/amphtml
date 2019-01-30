@@ -1,3 +1,10 @@
+$category: layout
+formats:
+  - websites
+  - ads
+teaser:
+  text: Displays elements in a full-viewport “lightbox” modal.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

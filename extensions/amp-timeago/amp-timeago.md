@@ -1,3 +1,10 @@
+$category: presentation
+formats:
+  - websites
+  - email
+teaser:
+  text: Provides fuzzy timestamps by formatting dates as "time ago" (for example, 3 hours ago).
+---
 <!--
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

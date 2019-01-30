@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays a Vimeo video.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

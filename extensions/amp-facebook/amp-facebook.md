@@ -1,3 +1,9 @@
+$category: social
+formats:
+  - websites
+teaser:
+  text: Displays a Facebook post or video.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

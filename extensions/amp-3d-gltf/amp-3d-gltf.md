@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays GL Transmission Format (gITF) 3D models.
+---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

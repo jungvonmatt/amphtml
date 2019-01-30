@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Provides an approximate country-level geolocation interface.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

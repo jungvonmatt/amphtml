@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays a Brid.tv player.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

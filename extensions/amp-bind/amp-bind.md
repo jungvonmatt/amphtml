@@ -1,6 +1,16 @@
+$category: dynamic-content
+formats:
+  - websites
+  - email
+  - ads
+teaser:
+  text: Allows elements to mutate in response to user actions or data changes via data binding and simple JS-like expressions.
+---
 # amp-bind
 
 Adds custom interactivity with data binding and expressions.
+
+# <a name="amp-bind"></a> `amp-bind`
 
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.

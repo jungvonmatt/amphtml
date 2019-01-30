@@ -1,3 +1,9 @@
+$category: layout
+formats:
+  - websites
+teaser:
+  text: Wraps its children in a unique full-screen scrolling container allowing you to display a full-screen ad without taking up the entire viewport.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

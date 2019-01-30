@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Dynamically loads more documents recommended for the user.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

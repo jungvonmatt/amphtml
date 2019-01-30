@@ -1,3 +1,9 @@
+$category: presentation
+formats:
+  - websites
+teaser:
+  text: Displays a MathML formula.
+---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

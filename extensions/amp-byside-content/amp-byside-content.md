@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Displays dynamic content from the BySide service.
+---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

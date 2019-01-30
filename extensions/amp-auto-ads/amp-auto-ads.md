@@ -1,3 +1,9 @@
+$category: ads-analytics
+formats:
+  - websites
+teaser:
+  text: Dynamically injects ads into an AMP page by using a remotely-served configuration file.
+---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

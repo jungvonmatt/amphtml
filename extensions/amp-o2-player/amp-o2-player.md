@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays an AOL O2Player.
+---
 <!---
 Copyright 2016 O2Player. All Rights Reserved.
 

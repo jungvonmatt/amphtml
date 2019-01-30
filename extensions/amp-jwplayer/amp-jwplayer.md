@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays a cloud-hosted JW Player.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

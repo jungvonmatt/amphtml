@@ -1,3 +1,11 @@
+$category: dynamic-content
+formats:
+  - websites
+  - email
+  - ads
+teaser:
+  text: Provides form support.
+---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

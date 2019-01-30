@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Embeds videos from 3Q SDN.
+---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

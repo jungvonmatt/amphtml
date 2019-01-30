@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays an iframe containing a video player.
+---
 <!--
 Copyright 2019 The AMP HTML Authors. All Rights Reserved.
 

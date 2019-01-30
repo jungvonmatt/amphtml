@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Run skimlinks inside your AMP page.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

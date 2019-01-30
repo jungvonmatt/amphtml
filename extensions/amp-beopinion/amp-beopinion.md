@@ -1,3 +1,9 @@
+$category: social
+formats:
+  - websites
+teaser:
+  text: Embeds BeOpinion content.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

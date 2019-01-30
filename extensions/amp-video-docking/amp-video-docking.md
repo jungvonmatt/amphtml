@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Functionality for videos that dock to a corner.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

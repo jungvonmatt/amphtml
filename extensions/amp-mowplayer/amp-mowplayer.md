@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays a cloud-hosted Mow Player.
+---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

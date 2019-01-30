@@ -1,3 +1,9 @@
+$category: presentation
+formats:
+  - websites
+teaser:
+  text: Displays visualizations created by using Vega visualization grammar.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

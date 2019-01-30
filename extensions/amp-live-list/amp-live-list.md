@@ -1,3 +1,10 @@
+$category: dynamic-content
+formats:
+  - websites
+  - stories
+teaser:
+  text: Provides a way to display and update content live.
+---
 <!--
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

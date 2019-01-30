@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Provides the ability to collect and store a user's consent through a UI control.
+---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

@@ -1,3 +1,9 @@
+$category: social
+formats:
+  - websites
+teaser:
+  text: Displays an AddThis website tools embed.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

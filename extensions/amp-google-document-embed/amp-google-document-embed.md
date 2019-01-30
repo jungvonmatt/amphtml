@@ -1,3 +1,9 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Displays a document file supported by Google Drive.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

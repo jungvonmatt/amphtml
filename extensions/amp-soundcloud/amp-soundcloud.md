@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays a Soundcloud clip.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

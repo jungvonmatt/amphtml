@@ -1,3 +1,9 @@
+$category: ads-analytics
+formats:
+  - websites
+teaser:
+  text: Provides a way to display and stick ad content at the bottom of the page.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

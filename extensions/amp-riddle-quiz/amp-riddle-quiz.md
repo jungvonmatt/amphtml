@@ -1,3 +1,9 @@
+$category: social
+formats:
+  - websites
+teaser:
+  text: Displays Riddle content (e.g., quiz, list, poll, etc.).
+---
 <!--
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

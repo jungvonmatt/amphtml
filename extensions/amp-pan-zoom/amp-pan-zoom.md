@@ -1,3 +1,9 @@
+$category: presentation
+formats:
+  - websites
+teaser:
+  text: Provides zooming and panning for arbitrary content.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

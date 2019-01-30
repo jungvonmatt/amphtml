@@ -1,3 +1,10 @@
+$category: ads-analytics
+formats:
+  - websites
+  - stories
+teaser:
+  text: Can be used to conduct user experience experiments on an AMP document.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

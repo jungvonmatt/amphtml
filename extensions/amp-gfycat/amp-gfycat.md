@@ -1,3 +1,10 @@
+$category: social
+formats:
+  - websites
+  - stories
+teaser:
+  text: Displays a Gfycat video GIF.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

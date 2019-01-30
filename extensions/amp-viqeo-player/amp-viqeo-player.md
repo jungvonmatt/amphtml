@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays a Viqeo video player.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

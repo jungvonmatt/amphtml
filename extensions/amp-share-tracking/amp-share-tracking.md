@@ -1,3 +1,9 @@
+$category: ads-analytics
+formats:
+  - websites
+teaser:
+  text: The share tracking feature is under development.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

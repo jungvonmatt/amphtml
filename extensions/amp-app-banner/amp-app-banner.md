@@ -1,3 +1,9 @@
+$category: layout
+formats:
+  - websites
+teaser:
+  text: A wrapper and minimal UI for a cross-platform, fixed-position banner showing a call-to-action to install an app.
+---
 <!--
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

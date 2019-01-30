@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays a Brightcove Video Cloud or Perform player.
+---
 <!---
 Copyright 2015 Brightcove. All Rights Reserved.
 

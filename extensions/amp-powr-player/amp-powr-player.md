@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: An amp-powr-player component displays the Powr Player as configured in the Powr platform.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

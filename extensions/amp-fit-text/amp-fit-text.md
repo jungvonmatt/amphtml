@@ -1,3 +1,12 @@
+$category: presentation
+formats:
+  - websites
+  - emails
+  - ads
+  - stories
+teaser:
+  text: Expands or shrinks font size to fit the content within the space given.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

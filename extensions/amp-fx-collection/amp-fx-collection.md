@@ -1,3 +1,9 @@
+$category: layout
+formats:
+  - websites
+teaser:
+  text: Provides a collection of preset visual effects, such as parallax.
+---
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

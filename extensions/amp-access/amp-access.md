@@ -1,5 +1,13 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Provides an AMP paywall and subscription support.
+---
 # amp-access
 AMP Access or “AMP paywall and subscription support” gives Publishers control over which content can be accessed by a Reader and with what restrictions, based on the Reader’s subscription status, number of views, and other factors.
+
+# <a name="amp-access-"></a> amp-access
 
 [TOC]
 

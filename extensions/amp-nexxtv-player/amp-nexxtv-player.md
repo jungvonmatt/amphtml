@@ -1,3 +1,9 @@
+$category: media
+formats:
+  - websites
+teaser:
+  text: Displays a media stream from the nexxOMNIA platform.
+---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

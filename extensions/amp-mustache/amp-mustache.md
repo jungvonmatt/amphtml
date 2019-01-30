@@ -1,3 +1,11 @@
+$category: dynamic-content
+formats:
+  - websites
+  - email
+  - ads
+teaser:
+  text: Allows rendering of Mustache.js templates.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

@@ -1,4 +1,12 @@
+$category: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Allows rendering of custom UI components running on third-party JavaScript.
+---
 # amp-script
+
+# <a name="amp-script"></a> `amp-script`
 
 <!---
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.

@@ -1,3 +1,9 @@
+$category: social
+formats:
+  - websites
+teaser:
+  text: Displays a Reddit comment or post embed.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

@@ -1,3 +1,10 @@
+$category: dynamic-content
+formats:
+  - websites
+  - stories
+teaser:
+  text: Installs a ServiceWorker.
+---
 <!---
 Copyright 2015 The AMP HTML Authors. All Rights Reserved.
 

@@ -1,3 +1,10 @@
+$category: ads-analytics
+formats:
+  - websites
+  - ads
+teaser:
+  text: Provides configurable behavior for ad exits for A4A (AMP for Ads).
+---
 <!--
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 
