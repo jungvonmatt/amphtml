@@ -70,7 +70,7 @@ The component HTML accepts the following types of HTML nodes as children:
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-tag (required)</strong></td>
     <td>The URL for your VAST ad document. A relative URL or a URL that uses https protocol.</td>

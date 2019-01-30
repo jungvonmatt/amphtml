@@ -53,7 +53,7 @@ The `width` and `height` attributes determine the aspect ratio of the player emb
 ```
 
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-site-id (required)</strong></td>
     <td>The SpringBoard site ID. Specific to every partner.</td>

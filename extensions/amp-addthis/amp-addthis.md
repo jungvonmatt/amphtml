@@ -79,7 +79,7 @@ Example:
 ```
 
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-pub-id</strong></td>
     <td>The AddThis publisher ID found in the URL in the [AddThis dashboard](https://addthis.com/dashboard) after logging in. For example, in the URL `https://www.addthis.com/dashboard#gallery/pub/ra-5c191331410932ff`, `ra-5c191331410932ff` is the publisher ID.</td>

@@ -43,7 +43,7 @@ With responsive layout the width and height from the example should yield correc
 ```
 
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-videoid (required)</strong></td>
     <td>The ID of the Izlesene video, which can be found in the Izlesene video page URL. For example, in https://www.izlesene.com/video/yayin-yok/7221390, the video ID is `7221390`.</td>

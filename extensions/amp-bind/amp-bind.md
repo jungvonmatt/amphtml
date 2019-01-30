@@ -642,7 +642,7 @@ AMP batches XMLHttpRequests (XHRs) to JSON endpoints, that is, you can use a sin
 
 #### Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>src</strong></td>
     <td>The URL of the remote endpoint that will return the JSON that will update this `amp-state`. This must be a CORS HTTP service.

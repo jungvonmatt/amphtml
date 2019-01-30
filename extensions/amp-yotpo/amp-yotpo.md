@@ -65,7 +65,7 @@ You can use the `amp-yotpo` extension to display [Yotpo on-site widgets](https:/
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-app-key (required)</strong></td>
     <td>Specifies the account app key. For example, `liSBkl621ZZsb88tsckAs6Bzx6jQeTJTv8CDf8y5`.</td>

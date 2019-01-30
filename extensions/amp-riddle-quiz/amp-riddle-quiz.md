@@ -44,7 +44,7 @@ This component embeds <a href="https://www.riddle.com/">Riddle</a> content (e.g.
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-riddle-id (required)</strong></td>
     <td>Specifies the unique ID for the Riddle item.</td>

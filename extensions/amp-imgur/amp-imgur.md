@@ -47,7 +47,7 @@ Example:
 ```
 
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-imgur-id (required)</strong></td>
     <td>The ID of the Imgur post.</td>

@@ -45,7 +45,7 @@ Displays a simple embedded <a href="http://www.hulu.com">Hulu</a> video.
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-eid</strong></td>
     <td>The ID of the video. For example, `4Dk5F2PYTtrgciuvloH3UA` is the eid in the following URL: https://player.hulu.com/site/dash/mobile_embed.html?eid=4Dk5F2PYTtrgciuvloH3UA.</td>

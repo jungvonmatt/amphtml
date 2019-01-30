@@ -67,7 +67,7 @@ Linkedin is one of the pre-configured providers, so you do not need to provide t
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>type (required)</strong></td>
     <td>Selects a provider type. This is required for both pre-configured and non-configured providers.</td>

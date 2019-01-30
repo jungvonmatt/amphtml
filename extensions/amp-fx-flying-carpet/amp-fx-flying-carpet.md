@@ -48,7 +48,7 @@ The following requirements are imposed on `amp-fx-flying-carpet` positioning:
  - It should be positioned so that its top can reach or be above the top of the last viewport when scrolled.
 
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>height</strong></td>
     <td>The height of the flying carpet's "window".</td>

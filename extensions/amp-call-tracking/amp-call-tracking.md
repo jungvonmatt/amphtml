@@ -54,7 +54,7 @@ Each unique CORS endpoint is called only once per page.
 {% endcall %}
 
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>config (required)</strong></td>
     <td>

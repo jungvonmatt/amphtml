@@ -57,7 +57,7 @@ The `width` and `height` attributes determine the aspect ratio of the Viqeo embe
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>autoplay</strong></td>
     <td>If this attribute is present, and the browser supports autoplay:

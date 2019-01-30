@@ -73,7 +73,7 @@ should be specified on the tag.
 - [DoubleClick (experimental)](../../ads/google/doubleclick.md)
 
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>type (required)</strong></td>
     <td>An identifier for the ad network.</td>

@@ -55,7 +55,7 @@ Example:
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-embed-id</strong></td>
     <td>The Reach player embed id found in the "players" section or in the generated embed itself.</td>

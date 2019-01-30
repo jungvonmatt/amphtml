@@ -65,7 +65,7 @@ The `<amp-ad>` requires width and height values to be specified according to the
 </div>
 
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>type (required)</strong></td>
     <td>Specifies an identifier for the [ad network](#supported-ad-networks). The `type`attribute selects the template to use for the ad tag.</td>

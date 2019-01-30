@@ -65,7 +65,7 @@ With optional parameters (info, share-buttons, comments):
 
 ## Required attributes
 ### One of the following is required:
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>src</strong></td>
     <td>The URL for the Playbuzz item.
@@ -82,7 +82,7 @@ With optional parameters (info, share-buttons, comments):
 
 ## Optional attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-item-info </strong> (optional)</td>
     <td>Indicates whether to display data info, such as creation date, creator name, etc.</td>

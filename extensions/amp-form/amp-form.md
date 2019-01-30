@@ -62,7 +62,7 @@ Here's an example of a basic form:
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>target</strong></td>
     <td>Indicates where to display the form response after submitting the form. The value must be `_blank` or `_top`.</td>

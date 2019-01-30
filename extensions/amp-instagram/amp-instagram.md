@@ -60,7 +60,7 @@ When using non-responsive layout you will need to account for the extra space ad
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-shortcode</strong></td>
     <td>The instagram data-shortcode is found in every instagram photo URL.

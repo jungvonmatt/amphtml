@@ -58,7 +58,7 @@ For showing images in a lightbox, there's also the [`<amp-image-lightbox>`](http
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>animate-in (optional)</strong></td>
     <td>Defines the style of animation for opening the lightbox. By default, this will

@@ -62,7 +62,7 @@ With the responsive layout, the width and height from the example should yield c
 ```
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>autoplay</strong></td>
     <td>If this attribute is present, and the browser supports autoplay:

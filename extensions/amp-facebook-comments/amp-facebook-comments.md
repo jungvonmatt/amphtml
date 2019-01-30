@@ -48,7 +48,7 @@ You can use the `amp-facebook-comments` component to embed the [Facebook comment
 </amp-facebook-comments>
 ```
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-href (required)</strong></td>
     <td>The URL of the comments page. For example, `http://www.directlyrics.com/adele-25-complete-album-lyrics-news.html`.</td>

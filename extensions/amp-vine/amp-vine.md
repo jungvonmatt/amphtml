@@ -47,7 +47,7 @@ A Vine simple embed has equal width and height:
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-vineid (required)</strong></td>
     <td>The ID of the Vine. In a URL like https://vine.co/v/MdKjXez002d, `MdKjXez002d` is the vineID.</td>

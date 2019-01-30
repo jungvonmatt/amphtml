@@ -42,7 +42,7 @@ With the `responsive` layout, the width and height in this should yield correct 
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong><strong>Examples</strong></td>
     <td>The sdnPlayoutId from 3Q SDN.</td>

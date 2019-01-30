@@ -289,7 +289,7 @@ The `amp-story` component represents an entire story.  The component itself  imp
 
 ### Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>standalone [required]</strong></td>
     <td>Identifies that the AMP document is a story.</td>
@@ -371,7 +371,7 @@ The `<amp-story-page>` component represents the content to display on a single p
 
 ### Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>id [required]</strong></td>
     <td>A unique identifier for the page. Can be used for styling the page and its descendants in CSS, and is also used to uniquely identify the page in the URL fragment.</td>
@@ -432,7 +432,7 @@ The `<amp-story-grid-layer>` component lays its children out into a grid.  Its i
 
 #### Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>template [required]</strong></td>
     <td>The `template` attribute determines the layout of the grid layer. Available templates are described in the [Templates](#templates) section below.

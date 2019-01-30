@@ -69,7 +69,7 @@ The `amp-video` component accepts up to four unique types of HTML nodes as child
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>src</strong></td>
     <td>Required if no `<source>` children are present. Must be HTTPS.</td>
@@ -130,7 +130,7 @@ The `amp-video` component accepts up to four unique types of HTML nodes as child
 
 The `amp-video` component implements the [Media Session API](https://developers.google.com/web/updates/2017/02/media-session), which enables developers to specify more information about the video file. The additional information for the video displays in the notification center of the user's device (along with the play/pause controls).
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>artwork</strong></td>
     <td>Specifies a URL to a PNG/JPG/ICO image serving as the video's artwork. If `artwork` is not present, the Media Session API helper uses either the `image` field in the `schema.org` definition, the `og:image`, or the website's `favicon`.</td>

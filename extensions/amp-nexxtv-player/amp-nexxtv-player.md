@@ -51,7 +51,7 @@ With the responsive layout, the width and height from the example should yield c
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-mediaid (required)</strong></td>
     <td>Represents the ID of the media you want to play.</td>

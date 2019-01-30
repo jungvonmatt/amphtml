@@ -84,7 +84,7 @@ The final code should like:
 
 ## Attributes
 
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>publisher-code (required)</strong></td>
     <td>Your skimlinks publisher code (also called "site Id").<br>

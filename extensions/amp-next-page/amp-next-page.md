@@ -137,7 +137,7 @@ selectors will be set to `display: none` in all child documents.
 ```
 
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>src</strong></td>
     <td>The URL of the remote endpoint that returns the JSON that will be used to

@@ -51,7 +51,7 @@ You can use the `amp-facebook-like` component to embed the [Facebook like button
 </amp-facebook-like>
 ```
 ## Attributes
-<table class=„ad—table-listing“>
+<table class="ad-m-table-listing">
   <tr>
     <td width="40%"><strong>data-href (required)</strong></td>
     <td>The absolute URL of the page that will be liked. For example, `https://www.facebook.com/testesmegadivertidos/`.</td>
