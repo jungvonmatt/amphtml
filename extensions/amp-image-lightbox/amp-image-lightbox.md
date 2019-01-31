@@ -1,4 +1,5 @@
----\n$category@: layout
+---
+$category@layout
 formats:
   - websites
   - email

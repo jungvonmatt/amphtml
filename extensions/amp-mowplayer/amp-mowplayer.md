@@ -1,4 +1,5 @@
----\n$category@: media
+---
+$category@media
 formats:
   - websites
 teaser:

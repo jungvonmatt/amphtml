@@ -1,9 +1,10 @@
+---
 $category: media
 formats:
   - websites
   - email
   - ads
-  -stories
+  - stories
 teaser:
   text: Replaces the HTML5 img tag.
 ---

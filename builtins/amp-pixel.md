@@ -1,3 +1,4 @@
+---
 $category: ads-analytics
 formats:
   - websites

@@ -1,4 +1,5 @@
----\n$category@: presentation
+---
+$category@presentation
 formats:
   - websites
   - email
