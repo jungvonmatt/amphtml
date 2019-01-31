@@ -1,5 +1,5 @@
 ---
-$category@dynamic-content
+$category@: dynamic-content
 formats:
   - websites
   - email

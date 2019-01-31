@@ -1,5 +1,5 @@
 ---
-$category@ads-analytics
+$category@: ads-analytics
 formats:
   - websites
 teaser:

@@ -1,5 +1,5 @@
 ---
-$category@social
+$category@: social
 formats:
   - websites
 teaser:
