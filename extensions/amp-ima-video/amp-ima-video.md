@@ -2,7 +2,8 @@
 $category@: media
 formats:
   - websites
-teaser: text: Embeds a video player for instream video ads that are integrated with the IMA SDK.
+teaser:
+  text: Embeds a video player for instream video ads that are integrated with the IMA SDK.
 ---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
