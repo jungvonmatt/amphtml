@@ -11,8 +11,6 @@ teaser:
 
 Adds custom interactivity with data binding and expressions.
 
-# <a name="amp-bind"></a> `amp-bind`
-
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 
