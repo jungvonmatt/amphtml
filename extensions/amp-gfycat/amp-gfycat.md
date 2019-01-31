@@ -1,4 +1,4 @@
-$category: social
+---\n$category@: social
 formats:
   - websites
   - stories

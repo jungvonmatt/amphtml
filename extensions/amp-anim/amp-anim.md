@@ -1,4 +1,5 @@
-$category: media
+---
+$category@: media
 formats:
   - websites
   - email

@@ -1,4 +1,4 @@
-$category: layout
+---\n$category@: layout
 formats:
   - websites
   - ads

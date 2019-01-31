@@ -1,4 +1,4 @@
-$category: dynamic-content
+---\n$category@: dynamic-content
 formats:
   - websites
   - email

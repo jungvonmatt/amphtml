@@ -1,4 +1,4 @@
-$category: media
+---\n$category@: media
 formats:
   - websites
   - ads

@@ -1,4 +1,4 @@
-$category: ads-analytics
+---\n$category@: ads-analytics
 formats:
   - websites
 teaser:

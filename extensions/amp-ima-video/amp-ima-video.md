@@ -1,4 +1,4 @@
-$category: media
+---\n$category@: media
 formats:
   - websites
 teaser: text: Embeds a video player for instream video ads that are integrated with the IMA SDK.
