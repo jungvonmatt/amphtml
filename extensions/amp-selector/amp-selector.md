@@ -113,7 +113,7 @@ See live demos at [AMP By Example](https://ampbyexample.com/components/amp-selec
 
 ### Attributes on `<amp-selector>`
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>disabled, form, multiple, name</strong></td>
     <td>The attributes above behave the same way as they do on a standard HTML [`<select>`](https://developer.mozilla.org/en/docs/Web/HTML/Element/select) element.</td>
@@ -130,7 +130,7 @@ See live demos at [AMP By Example](https://ampbyexample.com/components/amp-selec
 
 ### Attributes on `<amp-selector>` options
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>option</strong></td>
     <td>Indicates that the option is selectable.  If a value is specified, the contents of the value is submitted with the form.</td>
@@ -148,7 +148,7 @@ e.g. `on="select: my-tab.show"`
 
 Read more about [AMP Actions and Events](../../spec/amp-actions-and-events.md).
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>select</strong></td>
     <td>`amp-selector` triggers the `select` event when the user selects an option.

@@ -89,7 +89,7 @@ In the following example, we have a carousel of three images with preview button
 </div>
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>type</strong></td>
     <td>

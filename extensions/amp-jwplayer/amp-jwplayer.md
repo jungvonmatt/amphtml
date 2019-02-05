@@ -71,7 +71,7 @@ Example:
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-player-id</strong></td>
     <td>JW Platform player id. This is an 8-digit alphanumeric sequence that can be found in the [Players](https://dashboard.jwplayer.com/#/players) section in your JW Player Dashboard. (**Required**)</td>

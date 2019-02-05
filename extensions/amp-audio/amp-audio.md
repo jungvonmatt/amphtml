@@ -67,7 +67,7 @@ For example:
 ```
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>src</strong></td>
     <td>Required if no `<source>` children are present. Must be HTTPS.</td>
@@ -100,7 +100,7 @@ For example:
 
 `amp-audio` implements the [Media Session API](https://developers.google.com/web/updates/2017/02/media-session) enabling developers to specify more information about the audio file that is playing to be displayed in the notification center of user's devices (along with play/pause controls).
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>artwork</strong></td>
     <td>URL to a PNG/JPG/ICO image serving as the audio's artwork. If not present, the MediaSessionAPI Helper will use either the `image` field in the `schema.org` definition, the `og:image` or the website's `favicon`.</td>

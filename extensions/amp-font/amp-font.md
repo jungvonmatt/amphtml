@@ -80,7 +80,7 @@ Using these classes authors can guard whether a font is displayed and get the fo
 The `amp-font` extension accepts the `layout` value:  `nodisplay`
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>font-family</strong></td>
     <td>The font-family of the custom font being loaded.</td>

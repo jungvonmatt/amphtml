@@ -76,7 +76,7 @@ Use the `amp-reddit` component to embed a Reddit post or comment.
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-embedtype (required)</strong></td>
     <td>The type of embed, either `post` or `comment`.</td>

@@ -77,7 +77,7 @@ An element marked with a `placeholder` attribute displays while the content for 
 Visit the [Placeholders & fallbacks](https://www.ampproject.org/docs/guides/responsive/placeholders) guide to learn more about how placeholders and fallbacks interact for the `amp-beopinion` component.
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-account (required)</strong></td>
     <td>The ID of the BeOpinion account (page owner).</td>

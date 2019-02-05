@@ -67,7 +67,7 @@ Example:
 ```
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-content-id (Required)</strong></td>
     <td>The video's content ID.</td>

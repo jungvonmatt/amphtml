@@ -60,7 +60,7 @@ Example:
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-partner</strong></td>
     <td>The Kaltura partner id. This attribute is mandatory.</td>

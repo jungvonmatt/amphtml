@@ -58,7 +58,7 @@ Examples:
 ```
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>autoplay</strong></td>
     <td>

@@ -62,7 +62,7 @@ Example:
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-embed-id</strong></td>
     <td>The Reach player embed id found in the "players" section or in the generated embed itself.</td>

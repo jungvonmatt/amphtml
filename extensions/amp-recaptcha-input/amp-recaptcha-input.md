@@ -82,7 +82,7 @@ grecaptcha.execute('reCAPTCHA_site_key', {action: 'reCAPTCHA_example_action'});
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>layout (required)</strong></td>
     <td>Required value is `nodisplay`.

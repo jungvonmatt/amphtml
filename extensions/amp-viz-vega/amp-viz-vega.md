@@ -131,7 +131,7 @@ to learn more and play with samples.
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>src</strong></td>
     <td>This attribute can be used to load a Vega specification data file

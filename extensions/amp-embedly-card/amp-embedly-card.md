@@ -80,7 +80,7 @@ Within your AMP page, you can include one or multiple `amp-embedly-card` compone
 ```
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-url (required)</strong></td>
     <td>The URL to retrieve embedding information.</td>

@@ -62,7 +62,7 @@ This extension creates an iframe and displays a [gist from GitHub](https://help.
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-gistid (required)</strong></td>
     <td>The ID of the gist to embed.</td>

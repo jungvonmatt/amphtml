@@ -44,7 +44,7 @@ GMOSSP implementation of AMP Ad tag which requests early by XHR and renders nati
 
 GMOSSP impl uses the same tags as `<amp-ad>`.
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-use-a4a</strong></td>
     <td>If non-empty, GMOSSP will attempt to render via the A4A

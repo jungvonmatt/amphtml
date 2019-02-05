@@ -71,7 +71,7 @@ Unsupported features:
 
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>src [required]</strong></td>
     <td>A required attribute that specifies the URL to the gltf file.</td>
@@ -104,7 +104,7 @@ Unsupported features:
 </table>
 
 ## Actions
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>setModelRotation(x, y, z, xMin, xMax, yMin, yMax, zMin, zMax)</strong></td>
     <td>sets model rotation. rotation order is ZYX

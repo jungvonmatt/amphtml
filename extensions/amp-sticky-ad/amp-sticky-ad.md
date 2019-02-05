@@ -72,7 +72,7 @@ Example:
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>layout (required)</strong></td>
     <td>Must be set to `nodisplay`.</td>

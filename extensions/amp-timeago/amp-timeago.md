@@ -58,7 +58,7 @@ Example:
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>datetime (required)</strong></td>
     <td>An ISO datetime. E.g. 2017-03-10T01:00:00Z (UTC) *or* 2017-03-09T20:00:00-05:00 (specifying timezone offset).</td>

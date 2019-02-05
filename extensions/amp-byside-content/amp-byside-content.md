@@ -60,7 +60,7 @@ The `width` and `height` attributes determine the aspect ratio of the embedded B
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-webcare-id (required)</strong></td>
     <td>The BySide customer account ID.</td>

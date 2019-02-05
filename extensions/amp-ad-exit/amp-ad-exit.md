@@ -399,7 +399,7 @@ The `amp-ad-exit` element exposes an `exit` action that other elements reference
 See the `AmpAdExitConfig` typedef in [config.js](https://github.com/ampproject/amphtml/blob/master/extensions/amp-ad-exit/0.1/config.js).
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>id</strong></td>
     <td>An `id` is required so that `amp-exit` can be referenced by tappable elements.</td>

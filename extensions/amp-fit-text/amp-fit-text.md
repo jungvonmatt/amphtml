@@ -105,7 +105,7 @@ In the following example, we specified a `min-font-size` of `40`, which causes t
 
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>min-font-size</strong></td>
     <td>Specifies the minimum font size as an integer that the `amp-fit-text` can use.</td>

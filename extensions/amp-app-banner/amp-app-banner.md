@@ -139,7 +139,7 @@ Currently, the banner will be displayed always unless it was dismissed. Once dis
 ## Attributes
 ### Attributes on `amp-app-banner`
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>id (Required)</strong></td>
     <td>A unique identifier for an amp-app-banner; used for persistence logic.</td>
@@ -151,7 +151,7 @@ Currently, the banner will be displayed always unless it was dismissed. Once dis
 </table>
 
 ### Attributes on `button` descendant element
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>open-button (Required)</strong></td>
     <td>The click target for the banner to install the app, or open the deep-link if the app is already installed.<br>

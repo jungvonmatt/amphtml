@@ -62,7 +62,7 @@ Example:
 ```
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-account</strong></td>
     <td>The Brightcove Video Cloud or Perform account id.</td>

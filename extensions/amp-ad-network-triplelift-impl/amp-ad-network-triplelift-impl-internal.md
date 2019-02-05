@@ -46,7 +46,7 @@ valid signature for the text of the `creative` field.
 
 TripleLift impl  uses the same tags as `<amp-ad>`.
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-use-a4a</strong></td>
     <td>If non-empty, TripleLift will attempt to render via the A4A

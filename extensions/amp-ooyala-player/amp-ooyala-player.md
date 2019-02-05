@@ -50,7 +50,7 @@ Displays an <a href="https://www.ooyala.com/">Ooyala</a> video.
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-embedcode (required)</strong></td>
     <td>The video embed code from [Backlot](https://backlot.ooyala.com).</td>

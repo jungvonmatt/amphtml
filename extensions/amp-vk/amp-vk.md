@@ -69,7 +69,7 @@ Example of a poll widget:
 
 For additional information about widgets attributes, please see [VK post widget documentation](https://vk.com/dev/widget_post) and [VK poll widget documentation](https://vk.com/dev/widget_poll).
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-embedtype (required)</strong></td>
     <td>The type of embed, either `post` or `poll`.</td>

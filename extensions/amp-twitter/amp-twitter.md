@@ -98,7 +98,7 @@ Visit the [Placeholders & fallbacks](https://www.ampproject.org/docs/guides/resp
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-tweetid / data-momentid / data-timeline-source-type (required)</strong></td>
     <td>The ID of the Tweet or Moment, or the source type if a Timeline should be displayed.

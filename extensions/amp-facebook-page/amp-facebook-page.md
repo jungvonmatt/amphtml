@@ -58,7 +58,7 @@ You can use the `amp-facebook-page` component to embed the [Facebook page plugin
 </amp-facebook-page>
 ```
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-href (required)</strong></td>
     <td>The absolute URL of the Facebook page. For example, `https://www.facebook.com/imdb/`.</td>

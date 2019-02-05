@@ -65,7 +65,7 @@ Example:
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>src (required)</strong></td>
     <td>The URL of the ServiceWorker to register, which must use `https` protocol.</td>

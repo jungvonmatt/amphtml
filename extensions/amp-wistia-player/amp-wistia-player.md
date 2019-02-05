@@ -48,7 +48,7 @@ Displays a <a href="https://wistia.com">Wistia</a> video.
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-media-hashed-id (required)</strong></td>
     <td>The Wistia media id is found in every Wistia media page URL. If the media page URL is https://support.wistia.com/medias/u8p9wq6mq8, the data-media-hashed-id is `u8p9wq6mq8`.</td>

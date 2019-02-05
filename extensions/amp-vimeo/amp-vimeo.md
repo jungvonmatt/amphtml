@@ -55,7 +55,7 @@ With responsive layout, the width and height from the example should yield corre
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-videoid (required)</strong></td>
     <td>The Vimeo video id found in every Vimeo video page URL For example, `27246366` is the video id for the following url: `https://vimeo.com/27246366`.</td>

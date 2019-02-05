@@ -195,7 +195,7 @@ as clock becomes less than 50% visible.
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>target (optional)</strong></td>
     <td>Specifies the ID of the element to observe. If **not specified**, the **parent** of `<amp-position-observer>` is used as the target.</td>

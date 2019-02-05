@@ -60,7 +60,7 @@ Example:
 ```
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>src</strong></td>
     <td>The path to the exported Bodymovin animation object. Must be `https` protocol.</td>

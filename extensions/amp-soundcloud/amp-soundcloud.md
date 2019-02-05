@@ -62,7 +62,7 @@ Classic Mode:
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-trackid</strong></td>
     <td>This attribute is required if `data-playlistid` is not defined.  

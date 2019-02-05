@@ -124,7 +124,7 @@ Optionally, you can display captions at the bottom of the viewport for the image
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>layout (required)</strong></td>
     <td>Must be set to `nodisplay`.</td>

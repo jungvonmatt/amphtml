@@ -58,7 +58,7 @@ The `amp-anim` component is almost identical to the `amp-img` element, but allow
 In the future, additional functionality, such as animation playback control, could be added.
 
 ## Attributes
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>src</strong></td>
     <td>Similar to the `src` attribute on the `img` tag. The value must be a URL that

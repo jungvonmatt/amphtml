@@ -212,7 +212,7 @@ attribute requirements.
 
 ### Attributes on `amp-live-list`
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>id (Required)</strong></td>
     <td>To uniquely identify an amp-live-list (since multiple are allowed on a single
@@ -244,7 +244,7 @@ attribute requirements.
 
 ### Attributes on `items` reference point children
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>id (Required)</strong></td>
     <td>The ID of the `items` child must never change.</td>

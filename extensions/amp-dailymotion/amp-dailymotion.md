@@ -55,7 +55,7 @@ With responsive layout, the width and height from the example should yield corre
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>autoplay</strong></td>
     <td>

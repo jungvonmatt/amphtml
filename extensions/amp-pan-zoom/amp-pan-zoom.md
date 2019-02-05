@@ -60,7 +60,7 @@ The `<amp-pan-zoom>` component takes one child of arbitrary content and enables 
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>max-scale (optional)</strong></td>
     <td>Specifies a max zoom scale, which should be a positive number from 1 - 9.  The default value is 3.</td>

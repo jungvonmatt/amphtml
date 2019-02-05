@@ -70,7 +70,7 @@ VR view supports mono and stereo 360 images. Note:
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>src</strong></td>
     <td>The source URL of a stereo image. Must resolve to https. See notes above on what

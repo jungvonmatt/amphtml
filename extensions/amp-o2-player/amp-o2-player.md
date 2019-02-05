@@ -61,7 +61,7 @@ Example:
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>data-pid (required)</strong></td>
     <td>The Player ID for the O2Player.</td>

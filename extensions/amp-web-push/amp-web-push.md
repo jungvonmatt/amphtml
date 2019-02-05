@@ -62,7 +62,7 @@ Clicking the subscription widget pops up a page prompting the user for notificat
 
 ## Attributes
 
-<table class="ad-m-table-listing">
+<table>
   <tr>
     <td width="40%"><strong>visibility (required)</strong></td>
     <td>Describes when the widget is shown. The value can be one of `unsubscribed`, `subscribed`, or `blocked`.<br>
