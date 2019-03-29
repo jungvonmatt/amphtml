@@ -1,3 +1,10 @@
+---
+$category@: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Allows you to create form and input tags.
+---
 <!---
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

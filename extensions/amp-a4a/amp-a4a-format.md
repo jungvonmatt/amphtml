@@ -1,3 +1,10 @@
+---
+$category@: dynamic-content
+formats:
+  - websites
+teaser:
+  text: AMPHTML ads is a mechanism for rendering fast, performant ads in AMP pages.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

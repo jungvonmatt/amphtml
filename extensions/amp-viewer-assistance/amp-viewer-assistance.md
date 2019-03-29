@@ -1,3 +1,10 @@
+---
+$category@: dynamic-content
+formats:
+  - websites
+teaser:
+  text: Amp-viewer-assistance provides assistive behaviors on AMP pages facilitated by a viewer.
+---
 # <a name="amp-viewer-assistance"></a> amp-viewer-assistance
 
 [TOC]

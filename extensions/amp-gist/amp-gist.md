@@ -1,3 +1,10 @@
+---
+$category@: dynamic-content
+formats:
+  - websites
+teaser:
+  text: This extension creates an iframe and displays a gist from GitHub.
+---
 <!--
 Copyright 2017 The AMP HTML Authors. All Rights Reserved.
 

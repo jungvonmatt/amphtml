@@ -3,7 +3,7 @@ $category@: presentation
 formats:
   - websites
 teaser:
-  text:
+  text: Display a date value. The displayed string can be configured to different locales, formats and timezones.
 ---
 <!--
 Copyright 2019 The AMP HTML Authors. All Rights Reserved.

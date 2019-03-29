@@ -1,3 +1,10 @@
+---
+$category@: dynamic-content
+formats:
+  - websites
+teaser:
+  text: This AMP extension is our Linkmate service in AMP.
+---
 <!---
 Copyright 2019 The AMP HTML Authors. All Rights Reserved.
 

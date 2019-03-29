@@ -1,3 +1,10 @@
+---
+$category@: dynamic-content
+formats:
+  - ads
+teaser:
+  text: This is a fake ad network implementation for local testing only.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

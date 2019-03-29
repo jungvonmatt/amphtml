@@ -1,3 +1,10 @@
+---
+$category@: dynamic-content
+formats:
+  - websites
+teaser:
+  text: When the amp-mraid extension is included in an AMPHTML ad it will load mraid.js and register MRAID functions as host services.
+---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.
 

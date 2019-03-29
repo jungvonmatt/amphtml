@@ -1,3 +1,10 @@
+---
+$category@: ads-analytics
+formats:
+  - ads
+teaser:
+  text: Cloudflare implementation of AMP Ad tag which integrates with Cloudflare's transparent creative signing.
+---
 <!---
 Copyright 2016 Cloudflare. All Rights Reserved.
 

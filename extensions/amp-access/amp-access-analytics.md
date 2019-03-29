@@ -1,3 +1,10 @@
+---
+$category@: ads-analytics
+formats:
+  - websites
+teaser:
+  text: Access service issues events for major states in the access flow.
+---
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 
