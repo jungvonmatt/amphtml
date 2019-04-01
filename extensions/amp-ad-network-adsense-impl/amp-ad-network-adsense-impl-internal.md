@@ -1,10 +1,3 @@
----
-$category@: ads-analytics
-formats:
-  - ads
-teaser:
-  text: AdSense implementation of AMP Ad tag which requests early by XHR and renders natively within the page if a valid AMP Ad is returned.
----
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 
@@ -48,9 +41,9 @@ of this library, publishers can include its script declaration.
 
 The `<amp-consent>` element can be used to block the ad request until the user or AMP consent [checkConsentHref](https://github.com/ampproject/amphtml/blob/master/extensions/amp-consent/amp-consent.md#consent-configuration) end point provide consent state.  After the amp-consent extension has been configured (please refer to its [documentation](https://github.com/ampproject/amphtml/blob/master/extensions/amp-consent/amp-consent.md)), it can be linked to the amp-ad element via the `data-block-on-consent` attribute.
 
-If the user has responded negatively to the amp-consent component (user rejects the consent prompt), RTC call-outs will not be made and [non-personalized ads](https://support.google.com/dfp_premium/answer/9005435) will be requested.  
+If the user has responded negatively to the amp-consent component (user rejects the consent prompt), RTC call-outs will not be made and [non-personalized ads](https://support.google.com/dfp_premium/answer/9005435) will be requested.
 
-If the user’s response to the amp-consent is unknown (user dismisses the consent prompt), by default, no ad requests are sent.  
+If the user’s response to the amp-consent is unknown (user dismisses the consent prompt), by default, no ad requests are sent.
 If `data-npa-on-unknown-consent` is set to true, non-personalized ads will be requested.
 
 See [AdSense Help Center article](https://support.google.com/dfp_premium/answer/7678538) for more information.

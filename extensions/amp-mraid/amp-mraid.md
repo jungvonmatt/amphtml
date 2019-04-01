@@ -1,9 +1,9 @@
 ---
-$category@: dynamic-content
+$category@: ads-analytics
 formats:
-  - websites
+  - ads
 teaser:
-  text: When the amp-mraid extension is included in an AMPHTML ad it will load mraid.js and register MRAID functions as host services.
+  text: Supports interaction with the MRAID host API within Ad webviews
 ---
 <!--
 Copyright 2018 The AMP HTML Authors. All Rights Reserved.

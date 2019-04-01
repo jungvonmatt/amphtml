@@ -1,10 +1,3 @@
----
-$category@: dynamic-content
-formats:
-  - ads
-teaser:
-  text: Google Ad Manager implementation of the AMP Ad tag.
----
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

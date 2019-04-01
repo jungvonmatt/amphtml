@@ -1,10 +1,3 @@
----
-$category@: dynamic-content
-formats:
-  - ads
-teaser:
-  text: TripleLift implementation of AMP Ad tag which requests early by XHR and renders natively within the page if a valid AMP Ad is returned.
----
 <!---
 Copyright 2016 The AMP HTML Authors. All Rights Reserved.
 

@@ -3,7 +3,7 @@ $category@: dynamic-content
 formats:
   - websites
 teaser:
-  text: Amp-viewer-assistance provides assistive behaviors on AMP pages facilitated by a viewer.
+  text: Provides assistive behaviors on AMP pages facilitated by a viewer.
 ---
 # <a name="amp-viewer-assistance"></a> amp-viewer-assistance
 
@@ -28,7 +28,7 @@ limitations under the License.
 <table>
   <tr>
     <td class="col-fourty"><strong>Description</strong></td>
-    <td>Amp-viewer-assistance provides assistive behaviors on AMP pages facilitated by a viewer. Messages are passed between the amp-viewer-assistance extension and the external viewer as outlined below.</td>
+    <td><code>mp-viewer-assistance</code> provides assistive behaviors on AMP pages facilitated by a viewer. Messages are passed between the amp-viewer-assistance extension and the external viewer as outlined below.</td>
   </tr>
   <tr>
     <td><strong>Availability</strong></td>
@@ -76,7 +76,7 @@ The `amp-viewer-assistance` extension currently has two functions that can be in
 
 ## Messages Sent
 
-There are several messages that can be sent from the amp-viewer-assistance extension to the external viewer. 
+There are several messages that can be sent from the amp-viewer-assistance extension to the external viewer.
 
 <table>
   <tr>
@@ -140,7 +140,7 @@ Here are some examples:
 
 `amp-state:`
 ```html
-<amp-state id="myRemoteState" src="https://data.com/articles.json" 
+<amp-state id="myRemoteState" src="https://data.com/articles.json"
      crossorigin=”amp-viewer-auth-token-via-post”>
 </amp-state>
 ```
