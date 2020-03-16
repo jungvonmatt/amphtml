@@ -5,7 +5,7 @@ formats:
   - ads
   - email
 teaser:
-  text: Allows rendering of [Mustache.js](https://github.com/janl/mustache.js/) templates.
+  text: Allows rendering of Mustache.js templates.
 ---
 
 <!---
